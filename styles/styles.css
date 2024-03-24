@@ -3,3 +3,8 @@
   color: #D1D9E0;
   font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
 }
+
+#home-heading {
+  text-align: center;
+  font-size: 40px;
+}
